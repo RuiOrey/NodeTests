@@ -1,0 +1,14 @@
+{
+  "name": "q3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "answer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rui orey",
+  "license": "ISC",
+  "dependencies": {
+    "node-calendar": "^0.1.4"
+  }
+}
